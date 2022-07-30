@@ -19,7 +19,7 @@ public class Human {
         this.schedule = schedule;
     }
 
-    //overriding toString
+
     @Override
     public String toString() {
         return "Human{" +
@@ -41,14 +41,11 @@ public class Human {
         this.surname = surname;
         this.year = year;
     }
-
-    public Human(String name, String surname, int year, Human mother, Human father) {
+    public Human(String name, String surname) {
         this.name = name;
         this.surname = surname;
-        this.year = year;
-        this.mother = mother;
-        this.father = father;
     }
+
 
     public void greetPet() {
         System.out.println("Hello," + pet.nickName);

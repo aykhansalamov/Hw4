@@ -4,12 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ac41edc7-3da7-4d0b-87bb-84bbaf4300ee" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    <list default="true" id="ac41edc7-3da7-4d0b-87bb-84bbaf4300ee" name="Changes" comment="Hw4">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Human.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Pet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Pet.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +24,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -73,8 +73,28 @@
       <option name="presentableId" value="Default" />
       <updated>1657966512969</updated>
       <workItem from="1657966528049" duration="5564000" />
-      <workItem from="1658084910086" duration="1077000" />
+      <workItem from="1658084910086" duration="1460000" />
+      <workItem from="1658129624213" duration="594000" />
+      <workItem from="1658133857681" duration="81000" />
+      <workItem from="1658155978980" duration="433000" />
+      <workItem from="1658306313786" duration="6929000" />
+      <workItem from="1658407549080" duration="110000" />
+      <workItem from="1658408347936" duration="599000" />
+      <workItem from="1658413842607" duration="338000" />
+      <workItem from="1659010551662" duration="1557000" />
+      <workItem from="1659083951760" duration="65000" />
+      <workItem from="1659093593534" duration="877000" />
+      <workItem from="1659099516618" duration="3097000" />
+      <workItem from="1659174679780" duration="2491000" />
     </task>
+    <task id="LOCAL-00001" summary="Hw4">
+      <created>1658086039302</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1658086039302</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -90,5 +110,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Hw4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hw4" />
   </component>
 </project>

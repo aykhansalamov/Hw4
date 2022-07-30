@@ -2,20 +2,18 @@ import java.util.Random;
 
 public class Main {
     public static void main(String[] args) {
-
         Pet pet = new Pet();
-        pet.species = "poodle";
-        pet.nickName = "Lucy";
-        pet.age = 2;
-        pet.trickLevel = 64;
-        pet.habits = new String[]{"eating", "running", "playing"};
+        pet.species = "dog";
+        pet.nickName = "Rock";
+        pet.age = 5;
+        pet.trickLevel = 75;
+        pet.habits = new String[]{"eat", "drink", "sleep"};
 
-        Human father = new Human("Mark", "Zuckerberg", 1985);
-        Human mother = new Human("Marry", "Zuckerberg", 1986);
-
-        Human child = new Human("Jack", "Zuckerberg", 2020,
+        Human father = new Human("Vito", "Karleone");
+        Human mother = new Human("Jane", "Karleone");
+        Human child = new Human("Michael", "Karleone", 1977,
                 mother, father,
-                84,
+                90,
                 pet,
                 new String[][]{{"monday, do exercise"}}
         );

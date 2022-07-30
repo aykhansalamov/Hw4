@@ -10,7 +10,7 @@ public class Pet {
 
     @Override
     public String toString() {
-        return this.species + "{" +
+        return species + "{" +
                 "nickName='" + nickName + '\'' +
                 ", age=" + age +
                 ", trickLevel=" + trickLevel +
@@ -29,7 +29,7 @@ public class Pet {
         this.nickName = nickName;
     }
 
-    // constructor with all fields
+
     public Pet(String species, String nickName, int age, int trickLevel, String[] habits) {
         this.species = species;
         this.nickName = nickName;
